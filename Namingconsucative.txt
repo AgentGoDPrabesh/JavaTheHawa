@@ -1,0 +1,11 @@
+space are not allowed in variable names.
+only letters, digits, underscrore and dollar sign are permitted in variable name.
+Reserved words with used in Js shouldn't be used to varaible name.
+A letter(alphabet), underscore(_) or a dollarsign($) must be first character name, other special character shouldn't be used to name varaibles.
+
+Questions.
+1. variable
+2. javascript 
+3. application of Js
+4. Frontend vs Backend 
+5. How to use java?
